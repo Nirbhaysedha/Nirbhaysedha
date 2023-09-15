@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirbhay sedha</h1>
 <h3 align="center">"Navigating the Data Universe and Unleashing AI's Potential – My Journey as a Data Science Enthusiast"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirbhaysedha&label=Profile%20views&color=0e75b6&style=flat" alt="nirbhaysedha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirbhaysedha" alt="nirbhaysedha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/sedha9nirbhay" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sedha9nirbhay?logo=twitter&style=for-the-badge" alt="https://twitter.com/sedha9nirbhay" /></a> </p>
 
 - 📫 How to reach me **Sedha9nirbhay@gmail.com**
 
