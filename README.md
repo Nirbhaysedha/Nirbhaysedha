@@ -3,7 +3,7 @@
 
 
 - 📫 Feel free to get in touch with me :
-   Email: [**Sedha9nirbhay@gmail.com**]
+   Email: **Sedha9nirbhay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
