@@ -2,7 +2,8 @@
 <h3 align="center">"Navigating the Data Universe and Unleashing AI's Potential – My Journey as a Data Science Enthusiast"</h3>
 
 
-- 📫 How to reach me **Sedha9nirbhay@gmail.com**
+- 📫 Feel free to get in touch with me :
+   Email: [**Sedha9nirbhay@gmail.com**]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
