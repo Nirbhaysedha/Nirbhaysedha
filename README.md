@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nirbhay sedha</h1>
+<h1 align="center">Hi  👋, I'm Nirbhay sedha</h1>
 <h3 align="center">"Navigating the Data Universe and Unleashing AI's Potential – My Journey as a Data Science Enthusiast"</h3>
 
 
