@@ -3,7 +3,7 @@
 
 
 
-<img src="https://github.com/Nirbhaysedha/Nirbhaysedha/raw/main/IMG_2774.JPG" alt="Description of the image">
+<img src="https://github.com/Nirbhaysedha/Nirbhaysedha/blob/main/IMG_2775.JPG" alt="Description of the image">
 
 
 📫 Feel free to get in touch with me :
