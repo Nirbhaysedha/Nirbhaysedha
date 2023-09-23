@@ -1,6 +1,5 @@
 <h1 align="center">Hi  👋, I'm Nirbhay sedha</h1>
-<h3 align="center"><b>Navigating the Data Universe and Unleashing AI's Potential – My Journey as a Data Science Enthusiast </b> </h3>
-
+<h3 align="center" style="color: red; font-size: 24px; text-transform: uppercase; text-decoration: underline;"><b>Navigating the Data Universe and Unleashing AI's Potential – My Journey as a Data Science Enthusiast</b></h3>
 
 📫 Feel free to get in touch with me :
    Email: **Sedha9nirbhay@gmail.com**
