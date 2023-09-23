@@ -1,5 +1,5 @@
 <h1 align="center">Hi  👋, I'm Nirbhay sedha</h1>
-<h3 align="center">"Navigating the Data Universe and Unleashing AI's Potential – My Journey as a Data Science Enthusiast"</h3>
+<h3 align="center"><b>Navigating the Data Universe and Unleashing AI's Potential – My Journey as a Data Science Enthusiast </b> </h3>
 
 
 📫 Feel free to get in touch with me :
