@@ -27,8 +27,7 @@
 
 
 <div style="text-align: center;">
-  <img src="
-https://github.com/Nirbhaysedha/Nirbhaysedha/blob/main/IMG_2777.JPG" alt="Description of the image" style="max-width: 300px; display: block; margin: 0 auto;">
+  <img src="https://github.com/Nirbhaysedha/Nirbhaysedha/blob/main/IMG_2777.JPG" alt="Description of the image" style="max-width: 300px; display: block; margin: 0 auto;">
 </div>
 
 
