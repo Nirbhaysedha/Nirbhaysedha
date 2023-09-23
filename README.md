@@ -7,7 +7,7 @@
   <img src="https://github.com/Nirbhaysedha/Nirbhaysedha/raw/main/IMG_2775.JPG" alt="Description of the image" style="max-width: 300px; display: block; margin: 0 auto;">
 </div>
 
-
+<br><br>
 
 📫 Feel free to get in touch with me :
    Email: **Sedha9nirbhay@gmail.com**
