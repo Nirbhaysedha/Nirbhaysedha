@@ -3,7 +3,10 @@
 
 
 
-<img src="https://github.com/Nirbhaysedha/Nirbhaysedha/blob/main/IMG_2775.JPG" alt="Description of the image">
+<div style="text-align: center;">
+  <img src="https://github.com/Nirbhaysedha/Nirbhaysedha/raw/main/IMG_2775.JPG" alt="Description of the image" style="max-width: 300px; display: block; margin: 0 auto;">
+</div>
+
 
 
 📫 Feel free to get in touch with me :
