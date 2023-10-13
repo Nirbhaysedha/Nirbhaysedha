@@ -77,7 +77,3 @@ func GetBio() Bio {
   </a>
 </p>
 
-
----
-
-⭐️ From [@Nirbhaysedha](https://github.com/Nirbhaysedha) and [@Nirbhaysedha](https://github.com/Nirbhaysedha)
