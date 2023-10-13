@@ -13,7 +13,6 @@ Hello there! 👋 I am Nirbhay Sedha, a passionate Data Scientist and AI Enginee
 Feel free to get in touch with me via:
 
 - LinkedIn: [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24"/> LinkedIn](https://www.linkedin.com/in/nirbhay-sedha-4b103a252/)
-- GitHub: [<img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="24"/> GitHub](https://github.com/Nirbhaysedha)
 - Email: [<img src="https://img.icons8.com/color/48/000000/email.png" width="24"/> Email](mailto:sedha9nirbhay@gmail.com)
 - Twitter: [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="24"/> Twitter](https://twitter.com/sedha9nirbhay)
 
